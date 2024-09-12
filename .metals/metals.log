@@ -6,3 +6,1251 @@ SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanat
 SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@544c37f6]
 2024.09.11 23:46:25 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
 2024.09.11 23:46:26 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\BuscarLista.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.11 23:47:30 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.11 23:47:30 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.11 23:47:30 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.11 23:49:22 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.11 23:49:45 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.11 23:49:47 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.11 23:49:47 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.11 23:49:47 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.11 23:49:48 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.11 23:49:48 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.11 23:49:49 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.11 23:49:50 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.11 23:49:50 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.11 23:49:51 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.11 23:49:52 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.11 23:49:52 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.11 23:49:52 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.11 23:49:53 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.11 23:49:53 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:09:03 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:09:04 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:09:04 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:09:05 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:09:05 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:09:05 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:09:05 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:09:06 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:09:07 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:09:07 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:09:08 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:09:11 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:09:12 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:09:12 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:09:14 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:09:14 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:09:20 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:09:23 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:09:24 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:09:24 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:09:26 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:09:26 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:09:26 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:09:26 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:09:26 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:09:27 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:09:28 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:09:28 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:17 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:18 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:18 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:20 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:20 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:20 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:20 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:21 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:11:21 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:28 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:28 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:29 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:11:29 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:30 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:30 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:30 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:30 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:31 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:31 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:31 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:33 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:11:33 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:36 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:36 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:37 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:11:37 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:40 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:40 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:11:40 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:47 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:47 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:48 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:11:48 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:47 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:47 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:49 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:11:49 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:51 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:51 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:52 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:11:52 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:53 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:53 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:53 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:53 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:53 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:53 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:53 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:53 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:53 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:54 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:11:55 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:11:55 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+sep. 12, 2024 12:12:00 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_1/0#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Ctaller%5C%5CListTail.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A4%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024.09.12 00:12:12 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:12 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:13 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:12:13 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:14 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:14 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:14 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:14 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:14 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:14 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:14 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:15 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:15 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:15 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:17 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:12:17 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:21 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:21 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:21 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:21 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:22 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:12:22 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:23 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:23 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:24 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:24 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:24 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:26 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:27 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:12:27 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:27 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:28 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:12:28 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:28 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:29 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:12:29 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:32 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:32 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:32 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:32 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:32 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:33 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:33 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:33 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:34 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:35 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:12:35 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:40 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:40 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:42 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:42 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:42 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:43 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:43 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:43 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:45 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:45 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:46 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:12:46 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:49 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:49 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:50 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:12:50 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:52 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:53 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:12:54 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:12:54 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:08 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:08 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:08 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:08 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:09 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:10 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:13:10 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:11 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:11 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:11 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:11 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:12 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:12 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:12 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:14 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:15 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:15 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:15 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:16 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:13:16 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:18 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:18 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:13:18 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:20 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:20 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:22 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:13:22 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+sep. 12, 2024 12:13:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_1/0#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Ctaller%5C%5CListTail.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A4%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024.09.12 00:13:46 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:46 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:49 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:50 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:13:50 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:52 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:52 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:52 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:52 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:52 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:54 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:13:54 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:55 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:55 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:55 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:55 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:55 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:55 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:56 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:57 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:13:57 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:56 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:56 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:13:58 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:13:58 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:08 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:08 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:08 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:09 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:09 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:14:11 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:11 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:11 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:11 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:12 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:14:12 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:19 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:20 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:14:20 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:21 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:21 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:21 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:21 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:21 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:21 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:23 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:14:23 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:23 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:24 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:14:24 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:25 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:14:25 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:25 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:25 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:25 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:25 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:25 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:25 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:25 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:25 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:14:27 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:14:27 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:15:51 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:15:51 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:15:52 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:15:52 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:15:55 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:15:55 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:15:56 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:15:56 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:15:57 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:15:57 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:15:57 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:15:57 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:15:57 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:15:57 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:15:57 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:15:58 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:15:59 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:15:59 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:16:00 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:16:00 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:16:00 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:16:00 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:16:00 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:16:01 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:16:01 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:16:01 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:16:01 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:16:01 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:16:01 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:16:01 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:16:01 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:16:03 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:16:03 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:16:03 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:16:04 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:16:04 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:16:04 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:16:04 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:16:04 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:16:05 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:16:05 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:16:06 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:16:06 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:16:07 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+sep. 12, 2024 12:16:26 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_2/0#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Ctaller%5C%5CListTail.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A19%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+sep. 12, 2024 12:16:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_3/4#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Ctaller%5C%5CListTail.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A19%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+sep. 12, 2024 12:16:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_3/1#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Ctaller%5C%5CListTail.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A19%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+sep. 12, 2024 12:16:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_3/2#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Ctaller%5C%5CListTail.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A19%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+sep. 12, 2024 12:16:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_3/3#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Ctaller%5C%5CListTail.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A19%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+sep. 12, 2024 12:16:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_3/5#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Ctaller%5C%5CListTail.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A19%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+sep. 12, 2024 12:16:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_3/6#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Ctaller%5C%5CListTail.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A19%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+sep. 12, 2024 12:16:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_3/7#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Ctaller%5C%5CListTail.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A19%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+sep. 12, 2024 12:16:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_3/8#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Ctaller%5C%5CListTail.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A19%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+sep. 12, 2024 12:16:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_3/9#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Ctaller%5C%5CListTail.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A19%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at jdk.internal.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+sep. 12, 2024 12:16:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_3/10#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Ctaller%5C%5CListTail.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A19%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at jdk.internal.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+sep. 12, 2024 12:16:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_3/11#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Ctaller%5C%5CListTail.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A19%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at jdk.internal.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+sep. 12, 2024 12:16:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_1/0#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Ctaller%5C%5CListTail.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A4%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at jdk.internal.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+sep. 12, 2024 12:16:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_3/1#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Ctaller%5C%5CListTail.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A19%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at jdk.internal.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+sep. 12, 2024 12:16:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_3/2#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Ctaller%5C%5CListTail.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A19%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at jdk.internal.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+sep. 12, 2024 12:16:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_3/3#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Ctaller%5C%5CListTail.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A19%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at jdk.internal.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+sep. 12, 2024 12:16:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_3/4#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Ctaller%5C%5CListTail.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A19%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at jdk.internal.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+sep. 12, 2024 12:16:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_3/5#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Ctaller%5C%5CListTail.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A19%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at jdk.internal.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+sep. 12, 2024 12:16:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_3/6#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Ctaller%5C%5CListTail.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A19%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at jdk.internal.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+sep. 12, 2024 12:16:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_3/7#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Ctaller%5C%5CListTail.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A19%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at jdk.internal.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+sep. 12, 2024 12:16:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_3/8#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Ctaller%5C%5CListTail.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A19%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at jdk.internal.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+sep. 12, 2024 12:16:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_3/9#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Ctaller%5C%5CListTail.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A19%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at jdk.internal.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+sep. 12, 2024 12:16:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_3/10#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Ctaller%5C%5CListTail.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A19%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at jdk.internal.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+sep. 12, 2024 12:16:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_3/11#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Ctaller%5C%5CListTail.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FListTail.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A19%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at jdk.internal.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024.09.12 00:16:34 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:16:34 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:16:35 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:16:35 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:16:41 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:19:04 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:19:05 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:19:05 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:19:14 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:19:14 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:27 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:36 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:38 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:38 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:39 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:23:39 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:40 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:42 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:42 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:42 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:42 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:43 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:43 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:45 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:23:45 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:45 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:45 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:45 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:45 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:47 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:47 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:47 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:48 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:23:48 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:48 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:48 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:48 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:48 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:49 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:49 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:49 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:49 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:49 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:49 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:49 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:49 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:49 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:49 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:51 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:23:51 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:51 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:52 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:23:52 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:52 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:52 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:52 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:52 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:54 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:23:54 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:55 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:23:58 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:24:00 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:24:00 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:24:00 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:24:01 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:24:01 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:24:00 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:24:02 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:24:02 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:24:07 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:24:08 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:24:08 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:24:09 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:24:15 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:24:15 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 00:24:16 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 00:24:16 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+sep. 12, 2024 12:28:57 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace

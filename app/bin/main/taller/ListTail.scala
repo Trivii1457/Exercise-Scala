@@ -4,7 +4,6 @@ import scala.annotation.tailrec
 
 class ListTail {
 
-  @tailrec
   def maxLin(l: List[Int]): Int = {
 
     @tailrec
@@ -16,7 +15,6 @@ class ListTail {
     maxLinAux(l, l.head)
   }
 
-  @tailrec
   def maxIt(l: List[Int]): Int = {
 
     @tailrec
@@ -27,10 +25,5 @@ class ListTail {
 
     maxItAux(l, l.head)
   }
-
-    
-
-
-
 
 }

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="taller.BuscarListaTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-09-02T20:36:42" hostname="desktop-linux" time="0.003">
+<testsuite name="taller.BuscarListaTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-09-12T05:36:19" hostname="TRIVIPC" time="0.005">
   <properties/>
-  <testcase name="Encontrar 3 en List(1, 2, 3, 4, 5)" classname="taller.BuscarListaTest" time="0.001"/>
+  <testcase name="Encontrar 3 en List(1, 2, 3, 4, 5)" classname="taller.BuscarListaTest" time="0.002"/>
   <testcase name="No encontrar 6 en List(1, 2, 3, 4, 5)" classname="taller.BuscarListaTest" time="0.001"/>
   <testcase name="No encontrar 3 en List()" classname="taller.BuscarListaTest" time="0.0"/>
   <testcase name="Encontrar 3 en List(3)" classname="taller.BuscarListaTest" time="0.0"/>

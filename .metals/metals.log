@@ -1387,3 +1387,241 @@ SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@6280ec4
 sep. 12, 2024 8:19:49 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 ADVERTENCIA: Unmatched cancel notification for request id 7
 2024.09.12 08:19:49 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\ListTailTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+sep. 12, 2024 8:19:51 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 9
+2024.09.12 08:19:51 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\ListTailTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 08:19:53 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\ListTailTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 08:19:53 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\ListTailTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 08:19:53 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\ListTailTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 08:19:57 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\BuscarListaTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 08:19:59 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\BuscarListaTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 08:19:59 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\BuscarListaTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+sep. 12, 2024 8:20:00 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 30
+sep. 12, 2024 8:20:00 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 32
+2024.09.12 08:20:00 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\BuscarListaTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 08:20:00 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\BuscarListaTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 08:20:07 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\ListTailTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 08:20:18 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\BuscarListaTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:40:14 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:44:38 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+sep. 12, 2024 10:45:57 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_7/0#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Ctest%5C%5Cscala%5C%5Ctaller%5C%5CListTailTest.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Ftest%2Fscala%2Ftaller%2FListTailTest.scala%22%2C%22path%22%3A%22%2FC%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Ftest%2Fscala%2Ftaller%2FListTailTest.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A14%2C%22endColumn%22%3A2%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024.09.12 10:46:03 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\ListTailTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:46:03 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\ListTailTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:46:03 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\ListTailTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:46:05 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\ListTailTest.scala
+2024.09.12 10:46:05 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\ListTailTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:46:05 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\ListTailTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:46:07 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\ListTailTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:46:07 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\ListTailTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:46:08 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\ListTailTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:46:09 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\ListTailTest.scala
+2024.09.12 10:46:09 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\ListTailTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:46:26 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\ListTailTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:16 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:16 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:20 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:20 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:22 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:47:22 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:23 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:23 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:25 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:47:25 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:28 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:29 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:47:29 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:30 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:31 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:47:31 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:35 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:35 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:35 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:37 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:37 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:37 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:37 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:38 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:39 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:47:39 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:45 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:45 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:47:45 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:47 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:48 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:48 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:49 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:47:49 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:49 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:50 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:47:50 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:52 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:52 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:53 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:53 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:53 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:55 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:56 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:47:56 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:56 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:56 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:58 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:58 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:47:58 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:47:59 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:00 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:48:00 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:01 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:02 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:48:02 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:03 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:05 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:05 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:07 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:08 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:48:08 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:09 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:10 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:48:10 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:11 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:13 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:13 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:14 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:15 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:15 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:48:16 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:16 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:48:16 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:17 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:23 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:23 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:24 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:24 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+sep. 12, 2024 10:48:33 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 502
+2024.09.12 10:48:37 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:39 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:40 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:48:40 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:42 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:42 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:48:42 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:44 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:45 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:48:45 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:51 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:51 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:56 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:57 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:48:57 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:58 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:59 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:48:59 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:59 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:48:59 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:01 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:49:01 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:01 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:02 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:49:02 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:07 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:07 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:09 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:09 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:10 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:10 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:10 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:10 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:12 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:13 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:49:13 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:14 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:14 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:15 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:15 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:15 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:17 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:49:17 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:23 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:24 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:49:24 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:25 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:26 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:49:26 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:27 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:27 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:27 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:29 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:49:29 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:30 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:30 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:49:30 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:53 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:54 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:49:54 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:55 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:56 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:49:56 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:58 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:49:59 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:49:59 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:50:00 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:50:00 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:50:00 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+sep. 12, 2024 10:50:02 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 817
+2024.09.12 10:50:02 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:50:03 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:50:03 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:52:44 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:52:45 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:52:45 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:52:47 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:52:47 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:52:48 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:52:49 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala
+2024.09.12 10:52:49 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:52:49 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:58:00 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:58:58 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:58:58 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:59:08 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\ListTailTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:59:09 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\ListTailTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:59:13 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\ListTail.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.12 10:59:17 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\ListTailTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+sep. 12, 2024 10:59:36 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace

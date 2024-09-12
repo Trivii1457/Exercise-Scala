@@ -7,17 +7,15 @@ class ListTail {
   //funcion que retorna el maximo de una lista
   //ingresa una lista de enteros y retorna el maximo de la lista
   def maxLin(l: List[Int]): Int = {
-
-    //funcion auxiliar que retorna el maximo de una lista
-    @tailrec
-    def maxLinAux(l: List[Int], max: Int): Int = {
-      if (l.isEmpty) max//si la lista esta vacia retorna el maximo
-      //si no esta vacia se llama a si misma con la cola de la lista
-      // y el maximo entre el primer elemento de la lista y el maximo
-      else maxLinAux(l.tail, if (l.head > max) l.head else max)
+    //si la lista esta vacia lanza una excepcion
+    if (l.isEmpty) throw new NoSuchElementException("Lista vacía")
+    else if (l.tail.isEmpty) l.head//si la lista tiene un solo elemento retorna ese elemento
+    else {
+      //si la lista tiene mas de un elemento
+      val maxTail = maxLin(l.tail)
+      //retorna el maximo entre la cabeza de la lista y el maximo de la cola
+      if (l.head > maxTail) l.head else maxTail
     }
-    //llamado a la funcion auxiliar
-    maxLinAux(l, l.head)
   }
 
   

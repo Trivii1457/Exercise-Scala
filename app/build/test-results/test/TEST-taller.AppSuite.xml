@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="taller.AppSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-12T15:46:55" hostname="TRIVIPC" time="0.053">
+<testsuite name="taller.AppSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-12T21:13:16" hostname="TRIVIPC" time="0.055">
   <properties/>
-  <testcase name="App has a greeting" classname="taller.AppSuite" time="0.053"/>
+  <testcase name="App has a greeting" classname="taller.AppSuite" time="0.055"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

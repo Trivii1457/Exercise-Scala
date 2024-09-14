@@ -3163,3 +3163,185 @@ SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@5780
 SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
 SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@282675ae]
 2024.09.13 19:48:00 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+sep. 13, 2024 7:48:06 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 8
+sep. 13, 2024 7:48:06 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 9
+sep. 13, 2024 7:48:06 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 10
+sep. 13, 2024 7:48:07 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 13
+2024.09.13 20:07:52 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\Hanoi.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.13 20:07:52 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\Hanoi.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:06:52 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\Hanoi.scala. Using presentation compiler with project's scala-library version: 3.3.3
+sep. 14, 2024 12:08:05 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_15/0#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Ctaller%5C%5CHanoi.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FHanoi.scala%22%2C%22path%22%3A%22%2FC%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Fmain%2Fscala%2Ftaller%2FHanoi.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A24%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024.09.14 00:08:16 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\Hanoi.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:08:17 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\Hanoi.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:08:17 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\Hanoi.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:08:19 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\Hanoi.scala
+2024.09.14 00:08:19 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\Hanoi.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:08:24 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\Hanoi.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:08:24 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\Hanoi.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:08:29 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:08:47 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:08:47 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala
+2024.09.14 00:08:47 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:08:48 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:08:48 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:08:48 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:08:49 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:08:49 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:08:50 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala
+2024.09.14 00:08:50 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:10:18 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:10:25 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+sep. 14, 2024 12:10:33 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_16/0#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Ctest%5C%5Cscala%5C%5Ctaller%5C%5CHanoiTest.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Ftest%2Fscala%2Ftaller%2FHanoiTest.scala%22%2C%22path%22%3A%22%2FC%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Ftest%2Fscala%2Ftaller%2FHanoiTest.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A30%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A51%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024.09.14 00:10:38 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:10:39 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:10:39 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:10:41 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:10:41 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala
+2024.09.14 00:10:41 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:10:42 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:11:15 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\Hanoi.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:11:17 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\Hanoi.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:11:36 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\Hanoi.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:11:36 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\Hanoi.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:11:38 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\Hanoi.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:12:02 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:12:02 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:12:04 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:12:04 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:12:04 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:12:04 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:12:04 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:12:04 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:12:04 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:12:05 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:12:05 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:12:07 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:12:08 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala
+sep. 14, 2024 12:12:36 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://79a9110a-f494-4249-b437-8fb7916b97a2/response_17/0#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CUsers%5C%5Ctrivi%5C%5CDesktop%5C%5CProgramacion%5C%5CScala-Taller1%5C%5CExercise-Scala%5C%5Capp%5C%5Csrc%5C%5Ctest%5C%5Cscala%5C%5Ctaller%5C%5CHanoiTest.scala%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Ftest%2Fscala%2Ftaller%2FHanoiTest.scala%22%2C%22path%22%3A%22%2FC%3A%2FUsers%2Ftrivi%2FDesktop%2FProgramacion%2FScala-Taller1%2FExercise-Scala%2Fapp%2Fsrc%2Ftest%2Fscala%2Ftaller%2FHanoiTest.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A30%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A54%2C%22endColumn%22%3A1%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024.09.14 00:12:40 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:12:42 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:12:42 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:12:43 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:12:45 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala
+2024.09.14 00:12:45 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:13:07 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:13:07 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:13:07 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:13:08 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:13:08 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:13:09 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:13:09 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:13:09 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:13:11 WARN  no build target for: C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala
+2024.09.14 00:13:11 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:13:45 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:13:51 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:13:51 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\test\scala\taller\HanoiTest.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:13:55 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\Hanoi.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:13:58 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\Hanoi.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.14 00:14:01 INFO  no build target found for C:\Users\trivi\Desktop\Programacion\Scala-Taller1\Exercise-Scala\app\src\main\scala\taller\Hanoi.scala. Using presentation compiler with project's scala-library version: 3.3.3
+sep. 14, 2024 12:15:07 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace

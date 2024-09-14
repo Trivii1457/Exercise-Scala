@@ -30,5 +30,33 @@ class HanoiTest extends AnyFunSuite {
         val hanoi = new Hanoi
         assert(hanoi.movsTorresHanoi(4) == 15)
     }
+
+    // Pruebas para torresHanoi
+    test("torresHanoi debería retornar la secuencia correcta de movimientos para 1 disco") {
+    val hanoi = new Hanoi()
+    val moves = hanoi.torresHanoi(1, 1, 2, 3)
+    assert(moves == List((1, 3)))
+  }
+
+  test("torresHanoi debería retornar la secuencia correcta de movimientos para 2 discos") {
+    val hanoi = new Hanoi()
+    val moves = hanoi.torresHanoi(2, 1, 2, 3)
+    assert(moves == List((1, 2), (1, 3), (2, 3)))
+  }
+
+  test("torresHanoi debería retornar la secuencia correcta de movimientos para 3 discos") {
+    val hanoi = new Hanoi()
+    val moves = hanoi.torresHanoi(3, 1, 2, 3)
+    assert(moves == List((1, 3), (1, 2), (3, 2), (1, 3), (2, 1), (2, 3), (1, 3)))
+  }
+
+  test("torresHanoi debería retornar la secuencia correcta de movimientos para 4 discos") {
+    val hanoi = new Hanoi()
+    val moves = hanoi.torresHanoi(4, 1, 2, 3)
+    assert(moves == List(
+      (1, 2), (1, 3), (2, 3), (1, 2), (3, 1), (3, 2), (1, 2),
+      (1, 3), (2, 3), (2, 1), (3, 1), (2, 3), (1, 2), (1, 3), (2, 3)
+    ))
+  }
   
 }

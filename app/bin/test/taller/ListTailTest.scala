@@ -21,6 +21,17 @@ class ListTailTest extends AnyFunSuite {
     }
   }
 
+  test("maxLin debería retornar el elemento máximo para una lista grande con el mayor al final") {
+    val listTail = new ListTail
+    val largeList = (1 to 999999).toList ++ List(1000000)
+    assert(listTail.maxLin(largeList) == 1000000)
+  }
+
+  test("maxLin debería retornar el elemento máximo para una lista con elementos negativos") {
+    val listTail = new ListTail
+    assert(listTail.maxLin(List(-10, -20, -30, -5, -15)) == -5)
+  }
+
   // Pruebas para maxIt
   test("maxIt debería retornar el elemento máximo cuando el primer elemento es el mayor") {
     val listTail = new ListTail
@@ -37,6 +48,17 @@ class ListTailTest extends AnyFunSuite {
     assertThrows[NoSuchElementException] {
       listTail.maxIt(List())
     }
+  }
+
+  test("maxIt debería retornar el elemento máximo para una lista grande con el mayor al final") {
+    val listTail = new ListTail
+    val largeList = (1 to 999999).toList ++ List(1000000)
+    assert(listTail.maxIt(largeList) == 1000000)
+  }
+
+  test("maxIt debería retornar el elemento máximo para una lista con elementos negativos") {
+    val listTail = new ListTail
+    assert(listTail.maxIt(List(-10, -20, -30, -5, -15)) == -5)
   }
 
 }

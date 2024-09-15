@@ -18,7 +18,7 @@ class Hanoi {
             torresHanoi(n - 1, t1, t3, t2) :::
             // Mueve el disco n de t1 a t3
             List((t1, t3)) :::
-            // Mueve n-1 discos de t2 a t3 usando t1 como auxiliar
+            // Mueve n-1 discos de t2 a t3 usando t1 como auxiliar -_-
             torresHanoi(n - 1, t2, t1, t3)
         }
     }

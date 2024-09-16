@@ -27,6 +27,10 @@ object App {
     val existeElemento2 = buscarLista.buscarElemento(lista, elementoABuscar2)
     println(s"¿El elemento $elementoABuscar2 está en la lista? $existeElemento2")
 
+    val elementoABuscar3 = 3
+    val existeElemento3 = buscarLista.buscarElemento(lista, elementoABuscar3)
+    println(s"¿El elemento $elementoABuscar3 está en la lista? $existeElemento3")
+
     // Ejemplos de uso de torres de Hanoi
     val movimientos3Discos = hanoi.torresHanoi(3, 1, 2, 3)
     println("Movimientos para resolver las Torres de Hanoi con 3 discos:")

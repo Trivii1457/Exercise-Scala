@@ -43,5 +43,11 @@ object App {
     val movimientos2Discos = hanoi.torresHanoi(2, 1, 2, 3)
     println("Movimientos para resolver las Torres de Hanoi con 2 discos:")
     movimientos2Discos.foreach { case (from, to) => println(s"Mover disco de torre $from a torre $to") }
+
+    println(greeting())
   }
+
+  def greeting(): String = "Hello, world!"
+  
 }
+
